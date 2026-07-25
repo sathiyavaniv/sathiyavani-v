@@ -86,6 +86,17 @@ Built an interactive Power BI dashboard with KPI cards, a sales trend line by ca
 
 ---
 
+## ✅ Recommendations
+
+1. **Double down on Technology** — it's the top-selling and fastest-growing category (0.83M in sales, overtaking Furniture and Office Supplies by 2017). Prioritize inventory and marketing spend here.
+2. **Push Copiers as a margin driver** — since it's the most profitable sub-category despite not leading in volume, bundling or upselling copiers alongside Phones (the top seller) could lift overall margin.
+3. **Re-evaluate low-performing sub-categories** — Fasteners, Labels, and Envelopes sit far below the rest of the funnel (under 20K each). Consider reducing SKU count or repositioning these as bundled add-ons rather than standalone listings.
+4. **Build a retention program for star clients** — a small group of customers (led by Sean Miller at 25,043.05) drive disproportionate revenue. A dedicated account management or loyalty tier for top clients protects this concentrated revenue base.
+5. **Grow the Corporate and Home Office segments** — Consumer sales (1,146K) dwarf Corporate (696K) and Home Office (423K). Targeted B2B outreach or bulk-order incentives could unlock growth in these underrepresented segments.
+6. **Investigate the South region's underperformance** — South trails all other regions at 392K (17%), well behind the West (693K, 31%). Region-specific promotions or a review of distribution/service gaps in the South could help close this gap.
+
+---
+
 ## 🗂️ Data Source
 
 Order-level retail transaction dataset (Superstore dataset) — Orders, Returns, and People sheets, covering sales, profit, quantity, discount, customer, product, and regional details.
@@ -127,4 +138,3 @@ Order-level retail transaction dataset (Superstore dataset) — Orders, Returns,
 
 **Sathiyavani**
 [GitHub](https://github.com/sathiyavaniv)
-
